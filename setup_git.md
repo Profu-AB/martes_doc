@@ -12,6 +12,12 @@ cat ~/.ssh/id_rsa.pub
     - https://github.com/settings/keys
     - this step includes uploading (pasting) your ssh key in git 
 
+    - copy key from cat.. step
+    - open settings in github
+    - choose SSH and GPG keys in the left menu
+    -   in the page find button "New SSH key"
+    -   give it a name and scope and paste your ssh key
+
 ## back in linux again
 ssh -T git@github.com
 
