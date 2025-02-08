@@ -1,5 +1,11 @@
 ## setting up git in linux
+1. update the .env file so that contains your email and your name
+2. run the script setupgit.sh
+3. got to https://github.com/settings/keys and paste the ssh-key here
+    this step requires that you are logged in in github and have access to the repo. You also need to setup authenticator.
 
+
+# script example
 git config --global user.email "martin.magnemyr@gmail.com"
 git config --global user.name "Martin Magnemyr"
 
