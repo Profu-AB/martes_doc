@@ -3,6 +3,9 @@
 folder
     /martes/docker/dev/
 
+first things first
+    - source ./home.sh
+
 Start the containers:
     ./up.sh
         - starts 
