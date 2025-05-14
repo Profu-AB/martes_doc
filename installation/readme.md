@@ -1,7 +1,7 @@
 # installation
 
 - get the installation scripts
-    git clone https://github.com/mmagnemyr/martes_win.git
+    git clone  https://github.com/Profu-AB/martes_win.git
 
     read install.html in the repo
 
