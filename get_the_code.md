@@ -3,7 +3,7 @@
 - read setupgit.md 
 
 # clone the repo
-git clone https://github.com/mmagnemyr/martes.git
+git clone https://github.com/Profu-AB/martes.git
 
 folder structure
 
