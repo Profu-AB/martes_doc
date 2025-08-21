@@ -5,3 +5,8 @@
 1. setup_wsl.md
 2. setup_git.md 
 3. get_the_code.md
+
+
+# install code in linux
+
+
