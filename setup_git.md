@@ -1,7 +1,8 @@
 ## setting up git in linux
 1. update the .env file so that contains your email and your name
 2. run the script setupgit.sh
-3. got to https://github.com/settings/keys and paste the ssh-key here
+3. go
+ to https://github.com/settings/keys and paste the ssh-key here
     this step requires that you are logged in in github and have access to the repo. You also need to setup authenticator.
 
 
@@ -38,10 +39,13 @@ git config --global url."git@github.com:".insteadOf "https://github.com/"
 ## setup docker
 docker login
 
-## setup firebase
+## OPTIONAL setup firebase
 firebase login
 
 ## source code
+cd ..
+you should now be in /home/martes
+
 git clone https://github.com/mmagnemyr/martes.git
 
 ## start dev
